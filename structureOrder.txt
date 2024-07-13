@@ -1,0 +1,6 @@
+1. index.js / app.js - to create an express application and configure it for parsing JSON requests
+2. server.js - to connect to DB and start server
+3. models - to define what the data will look like in the DB and add methods for it if needed
+4. controllers - to define actions related to the models, e.g. create new
+5. routes - to define the routes for the actions in the controller
+6. index.js / app.js (again) - to add routes
